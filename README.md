@@ -1,5 +1,5 @@
 # SIMULACION-4K1
 
-## En este proyecto encontrar· la resolucion para el TP n∞ 2 de simulaciÛn *4k1*
-### Se ir·n agregando las resoluciones de los futuros TPs
+## En este proyecto encontrar√° la resolucion para el TP n¬∞ 5 de simulaci√≥n *4k1*
+### Se ir√°n agregando las resoluciones de los futuros TPs
 ### 
