@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+=======
+.vs
+./bin
+>>>>>>> c1a4f3d17e23bdf7b22c7e92f851f08c3962cb85
+/obj/Debug
+/Simulacion-TP2-2023-v1/bin/Debug
+/Simulacion-TP2-2024/bin/Debug
+/Simulacion-TP2-2024/obj
+/Simulacion-TP2-2023-v1/obj
